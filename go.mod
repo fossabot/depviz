@@ -9,7 +9,7 @@ require (
 	github.com/go-chi/docgen v1.0.5
 	github.com/go-chi/render v1.0.1
 	github.com/golang/protobuf v1.3.2 // indirect
-	github.com/google/go-github v17.0.0+incompatible
+	github.com/google/go-github v28.0.0+incompatible
 	github.com/jinzhu/gorm v1.9.10
 	github.com/lib/pq v1.1.1
 	github.com/magiconair/properties v1.8.1 // indirect
